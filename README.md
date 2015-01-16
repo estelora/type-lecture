@@ -23,6 +23,7 @@ A brief course about web type for software developers.
 - Worst fonts: http://www.fastcodesign.com/1665318/the-8-worst-fonts-in-the-world
 - CSS tips for type: http://code.tutsplus.com/tutorials/6-ways-to-improve-your-web-typography--net-6248
 - Beautiful Type experiences: http://lostworldsfairs.com/
+- Fun Kerning and Tracking : http://www.kernjs.com/
 
 #### Great site for choosing color:
  - http://design-seeds.com/
