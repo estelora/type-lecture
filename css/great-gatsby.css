@@ -1,0 +1,74 @@
+body {
+    background: #111C40;
+    padding: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Open Sans', sans-serif;
+    width: auto;
+
+}
+
+    .page {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 1em;
+        /*set max-width instead of just width for text blocks */
+        max-width: 65em;
+        /*1.2em is ideal for blocks of text*/
+        line-height: 1.2em;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #edf2f2;
+    }
+
+        .info {
+            margin-left: auto;
+            color: black;
+        }
+
+            .title {
+                font-size: 72pt;
+                font-family: 'Vollkorn', serif;
+                /*example of tracking, letters here look better closer together */
+                letter-spacing: -.025em;
+
+            }
+
+            .chapter-number {
+              font-size: 18pt;
+              font-family: 'Vollkorn', serif;
+              text-transform: uppercase;
+              padding: 0 0 .5em 3em;
+            }
+
+        .body-copy {
+            font-size: 12pt;
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.25em;
+            color: black;
+            padding: 0 2em;
+        }
+
+            .p1 {
+              font-size: 12pt;
+              font-family: 'Open Sans', sans-serif;
+              /*align text left*/
+              text-align: left;
+            }
+
+            .p2 {
+              font-size: 12pt;
+              font-family: 'Open Sans', sans-serif;
+              color: black;
+              /*align text right */
+              text-align: right;
+            }
+
+            .p3 {
+              font-size: 12pt;
+              font-family: 'Open Sans', sans-serif;
+              color: black;
+              /*Justify a text block */
+              text-align: justify;
+              text-justify: inter-word;
+            }
