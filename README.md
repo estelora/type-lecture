@@ -14,7 +14,7 @@ A brief course about web type for software developers.
 
   
 ### Exercises: 
-- Try adding a new google font combination to the <i>great-gatsby.html</i> file.
+- Try adding a new Google Font combination to the <i>great-gatsby.html</i> file.
 -  Mess around with the <i>great-gatsby.css</i> file.
   
 ####  Great Resources for Type:
