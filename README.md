@@ -12,7 +12,18 @@ A brief course about web type for software developers.
 - Understand how to find and put Google fonts in html, css, and scss.
 - Become familiar with the concept of combining fonts and knowing how to find good font combinations.
 
-  
+### Basic Body Copy Conventions:
+- Body copy means big blocks of text together. (not headings)
+- Print body copy: 65-75em wide, leading 120% of line-height (different than web, em is 
+- larger on the web for some reason
+- Web Body Copy: 27-38em wide, line-height 1.3-1.5 ems.
+- Avoid orphans and widows if possible
+
+### Choosing good font combinations:
+- Body copy means big blocks of text together. (not headings)
+- I suggest one serif font and one sans serif font.
+- Look up other people's font combinations (search 'good google font combinations)
+
 ### Exercises: 
 - Try adding a new Google Font combination to the <i>great-gatsby.html</i> file.
 -  Mess around with the <i>great-gatsby.css</i> file.
