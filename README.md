@@ -6,7 +6,7 @@
 ##Why is typograpy important?
 - Accessibility to information, reading is becoming more and more digital.
 - Form and Function necessary to engage users.
-- Having good design skills gives you an edge over other developers. 
+- Strong type design skills are essential for web development.
 
 ### Objectives:
 - Define following type terms: <i>point</i>, <i>serif</i>, <i>sans-serif<i>.
