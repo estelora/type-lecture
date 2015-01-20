@@ -3,13 +3,14 @@
 - Includes slides, demo files, and an outline.
 - <strong>Goal:</strong> Make into a video.
 
-##Why is type important?
+##Why is typograpy important?
 - Accessibility to information, reading is becoming more and more digital.
 - Form and Function necessary to engage users.
+- Having good design skills gives you an edge over other developers. 
 
 ### Objectives:
-- Define following type terms: point, serif, sans-serif.
-- Know what an em is and how it is important for web design.
+- Define following type terms: <i>point</i>, <i>serif</i>, <i>sans-serif<i>.
+- Know what an <i>em</i> is and how it is important for web design.
 - Remember ideal line-heights for type and ideal width of line for type.
 - Understand how to find and put Google fonts in html, css, and scss.
 - Become familiar with the concept of combining fonts and knowing how to find good font combinations.
@@ -19,7 +20,7 @@
 - Print body copy: 65-75em wide, leading 120% of line-height (different than web, em is 
   larger on the web for some reason).
 - Web Body Copy: 27-38em wide, line-height 1.3-1.5 ems.
-- Avoid orphans and widows if possible. It is hard for the user.
+- Avoid <i>orphans</i> and <i>widows</i> if possible. It is hard for the user.
 
 ### Choosing good font combinations:
 - Body copy means big blocks of text together. (not headings)
