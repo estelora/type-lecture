@@ -1,7 +1,7 @@
 # Web Typography
-A brief course about web type for software developers.
-Includes slides, demo files, and an outline.
-Goal: Make into a video.
+- A brief course about web type for software developers.
+- Includes slides, demo files, and an outline.
+- <strong>Goal:</strong> Make into a video.
 
 ##Why is type important?
 - Accessibility to information, reading is becoming more and more digital.
