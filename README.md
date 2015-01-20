@@ -3,9 +3,10 @@
 - Includes slides, demo files, and an outline.
 - <strong>Goal:</strong> Make into a video.
 
-##Why is typograpy important?
-- Accessibility to information, reading is becoming more and more digital.
-- Form and Function necessary to engage users.
+##Why is web typograpy important?
+- Good type design makes getting information easy.
+- More and more written information is going digital; this means a working knowledge in digital type is a must.
+- Form and Function is necessary to keep users engaged.
 - Strong type design skills are essential for web development.
 
 ### Objectives:
