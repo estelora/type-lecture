@@ -1,5 +1,7 @@
 # Web Typography
 A brief course about web type for software developers.
+Includes slides, demo files, and an outline.
+Goal: Make into a video.
 
 ##Why is type important?
 - Accessibility to information, reading is becoming more and more digital.
@@ -36,5 +38,8 @@ A brief course about web type for software developers.
 - Beautiful Type experiences: http://lostworldsfairs.com/
 - Fun Kerning and Tracking : http://www.kernjs.com/
 
-#### Great site for choosing color:
+#### Color Resources:
  - http://design-seeds.com/
+ - http://colrd.com/
+ - http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project
+
