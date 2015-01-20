@@ -17,9 +17,9 @@
 ### Basic Body Copy Conventions:
 - Body copy means big blocks of text together. (not headings)
 - Print body copy: 65-75em wide, leading 120% of line-height (different than web, em is 
-- larger on the web for some reason
+  larger on the web for some reason).
 - Web Body Copy: 27-38em wide, line-height 1.3-1.5 ems.
-- Avoid orphans and widows if possible
+- Avoid orphans and widows if possible. It is hard for the user.
 
 ### Choosing good font combinations:
 - Body copy means big blocks of text together. (not headings)
