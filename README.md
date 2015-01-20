@@ -7,7 +7,7 @@
 - Good type design makes getting information easy.
 - More and more written information is going digital; this means a working knowledge in digital type is a must.
 - Form and Function is necessary to keep users engaged.
-- Strong type design skills are essential for web development.
+- Web Type design is a cornerstone of web development (that is often not done well).
 
 ### Objectives:
 - Define following type terms: <i>point</i>, <i>serif</i>, <i>sans-serif<i>.
